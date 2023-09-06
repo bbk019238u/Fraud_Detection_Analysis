@@ -7,4 +7,6 @@ The tasks I had to execute: <br>
 1.Proactive detection of fraud while answering following questions. <br>
 2. Data cleaning including missing values, outliers and multi-collinearity. <br>
 3. Trying various ML models on the final cleaned dataset. <br>
+     I started off by first training the model and then testing it using the two basic classifier models -> Decision Tree and Random Forests. Of these two, Random Forest came out as a better performer. <br>
+     After this, I tried to use the various Boosting models (XGBoost, AdaBoost, Gradient Boosting and CatBoost). These 4 gave very high level of performance with an average accuracy score of 99.9%. Overall, XGBoost came out as the best performer of these Boosting models. <br>
 4. Demonstrate the performance of the model by using best set of tools. <br>
